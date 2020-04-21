@@ -7,4 +7,6 @@ currently i am showing prayer time and sunrise on my screen. i found 2 following
 1. adhan plays on time but stops at the very end of adhan. i mean it doesn't play full adhan.
 2. secondly it starts playing adhan at sunrie time. which is not write.
 
-can you please look at the above issues and give me some updates on me.osama@gmail.com
+can you please look at the above issues and give me some updates here or let me know i will give you my email address.
+
+Thanks.
